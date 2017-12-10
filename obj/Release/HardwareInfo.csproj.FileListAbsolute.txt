@@ -1,0 +1,10 @@
+C:\Users\Bolivar\Desktop\c#\HardwareInfo\HardwareInfo\HardwareInfo\bin\Release\HardwareInfo.exe.config
+C:\Users\Bolivar\Desktop\c#\HardwareInfo\HardwareInfo\HardwareInfo\bin\Release\HardwareInfo.exe
+C:\Users\Bolivar\Desktop\c#\HardwareInfo\HardwareInfo\HardwareInfo\bin\Release\HardwareInfo.pdb
+C:\Users\Bolivar\Desktop\c#\HardwareInfo\HardwareInfo\HardwareInfo\obj\Release\HardwareInfo.Form1.resources
+C:\Users\Bolivar\Desktop\c#\HardwareInfo\HardwareInfo\HardwareInfo\obj\Release\HardwareInfo.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\c#\HardwareInfo\HardwareInfo\HardwareInfo\obj\Release\HardwareInfo.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\c#\HardwareInfo\HardwareInfo\HardwareInfo\obj\Release\HardwareInfo.csproj.CoreCompileInputs.cache
+C:\Users\Bolivar\Desktop\c#\HardwareInfo\HardwareInfo\HardwareInfo\obj\Release\HardwareInfo.exe
+C:\Users\Bolivar\Desktop\c#\HardwareInfo\HardwareInfo\HardwareInfo\obj\Release\HardwareInfo.pdb
+C:\Users\Bolivar\Desktop\c#\HardwareInfo\HardwareInfo\HardwareInfo\obj\Release\HardwareInfo.csprojResolveAssemblyReference.cache
